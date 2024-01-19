@@ -22,6 +22,10 @@ Looping Statements
 
 Push()
 
+Array
+
+Dictionaries
+
 Comparisions
 
 Literals
