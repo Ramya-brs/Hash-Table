@@ -6,4 +6,26 @@ It is also known as a Hash Map or Dictionary in some programming languages. Hash
 This key is hashed into an index, allowing for constant-time (O(1)) access to elements.
 
 ## Concepts used in this theme are
+Class
 
+Constructor
+
+_hash()
+
+Set Method
+
+Get Method
+
+Conditional Statements
+
+Looping Statements
+
+Push()
+
+Comparisions
+
+Literals
+
+Logicals
+
+Functions
